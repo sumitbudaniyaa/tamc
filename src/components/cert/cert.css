@@ -1,0 +1,42 @@
+.cert
+{
+    width: 70%;
+    margin-top: 30rem;
+background-color: white;
+border-radius: 1rem;
+
+    img{
+        width: 100%;
+        height: 40rem;
+        border-radius: 1rem;
+    }
+
+    p{
+        font-family: "Sansita", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+  color: var(--pinkbg-color);
+  margin-top: 5rem;
+    }
+
+    #pass{
+        width: 30rem;
+        height: 25rem;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px){
+    .cert{
+        width: 95%;
+
+        img{
+            height: 25rem;
+        }
+
+        #pass{
+            width: 90%;
+            height: 25rem;
+        }
+    }
+}

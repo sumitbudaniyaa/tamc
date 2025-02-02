@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --pinkbg-color : rgba(222, 18, 52, 0.874);
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  background-color: rgba(222, 18, 52, 0.874);
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: white;
+}
+
+::-webkit-scrollbar-thumb {
+  background: pink;
+}
