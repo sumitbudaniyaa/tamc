@@ -64,5 +64,10 @@ button{
         #crown{
            font-size: 2rem;
         }
+
+
+        button{
+            margin-bottom: 3rem;
+        }
      }
 }

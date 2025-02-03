@@ -6,6 +6,7 @@
   position: relative;
   animation: open .75s ease-in;
   margin-top: 300rem;
+  overflow-x: hidden;
 
   .home-box {
     border: 2px dashed var(--pinkbg-color);

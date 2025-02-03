@@ -10,7 +10,7 @@ const Letter = () => {
   return (
     <div className="letter">
       <h1>
-        This letter has something which you should open and see on your own risk{" "}
+        This letter has something which you should open and see at your own risk{" "}
         <span>
           ARE YOUR READY TO TAKE THE RISK IF YES THEN CLICK THAT DAMN HEART😤😤😤
         </span>
