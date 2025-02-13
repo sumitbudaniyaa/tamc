@@ -84,7 +84,14 @@ const Home = () => {
           bs i love you baby and i love you so so so much ki bs puch mat itni
           bkwas likhi hai jiska sense kn banta but okay baby tu best hai yaar tu
           acchi hai bhot tu jesi h vesi hi reh mtlb kbhi dur mt jana merse pls
-          aur hmesha pyar krna mrko aur meri smallie fatty cow banke rehna baby abhi ye bhi m trko ignore krke kr rha hu sorry baby trko khane ka name leke ye sb kr rha sorry but i love you baby
+          aur hmesha pyar krna mrko aur meri smallie fatty cow banke rehna baby
+          abhi ye bhi m trko ignore krke kr rha hu sorry baby trko khane ka name
+          leke ye sb kr rha sorry but i love you baby bhai terse aaj mene
+          hackathon ke liye ky puch liya tu bhai wow bb bhai itna bura feel
+          krwati na mtlb bhai trko dikat hi merse kalesh krke aab same ese letke
+          phone chlari bhai hadd hoti hai mtlb bhai merse hi dikat h tujhe aab
+          tu dekhna jis din tune kisi aur ke sth kri na fir dekhna m btaunga
+          tujhe anyways baby hiiiiiii tom you will be seeing this bb no matter how much we fight i will still love you always baby like never giving up on you my baby you are the best i love you so muchh baby itna hi dimak m aa rha aab likhne ko idk what more should i write like idk whether you will like it or not anyways baby see yaa  <br /> Regards ~ Your Smallie Lover
           <div className="valentinereveal">
             <img src={revealImg} className="bigbigimg" alt="" />
             <p>This smallie has a hidden message</p>
